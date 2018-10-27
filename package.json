@@ -1,0 +1,23 @@
+{
+  "name": "poppin-bottles",
+  "version": "1.0.0",
+  "description": "",
+  "main": "poppin-bottles.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andydlindsay/poppin-bottles.git"
+  },
+  "author": "Andy Lindsay <andydlindsay@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andydlindsay/poppin-bottles/issues"
+  },
+  "homepage": "https://github.com/andydlindsay/poppin-bottles#readme",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^5.2.0"
+  }
+}
